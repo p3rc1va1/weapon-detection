@@ -1,0 +1,13 @@
+names:
+- Automatic Rifle
+- Bazooka
+- Grenade Launcher
+- Handgun
+- Knife
+- Shotgun
+- SMG
+- Sniper
+- Sword
+nc: 9
+train: /kaggle/input/weapon-detection-test/weapon_detection/train
+val: /kaggle/input/weapon-detection-test/weapon_detection/val
